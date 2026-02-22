@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "title": "Criação de Pipeline de CI/CD #1",
+        "complexity": 1,
+        "uncertainty": 1,
+        "technical_debt": 3,
+        "points": 1
+    },
+    {
+        "id": 2,
+        "title": "Implementação de Frontend do Carrinho #2",
+        "complexity": 5,
+        "uncertainty": 3,
+        "technical_debt": 3,
+        "points": 5
+    },
+    {
+        "id": 3,
+        "title": "Desenvolvimento de Infraestrutura como Código (Terraform) #3",
+        "complexity": 6,
+        "uncertainty": 1,
+        "technical_debt": 2,
+        "points": 3
+    },
+    {
+        "id": 4,
+        "title": "Integração com Módulo de Autenticação #4",
+        "complexity": 8,
+        "uncertainty": 4,
+        "technical_debt": 1,
+        "points": 5
+    },
+    {
+        "id": 5,
+        "title": "Desenvolvimento de Motor de Busca #5",
+        "complexity": 2,
+        "uncertainty": 4,
+        "technical_debt": 2,
+        "points": 3
+    },
+    {
+        "id": 6,
+        "title": "Otimização de Infraestrutura como Código (Terraform) #6",
+        "complexity": 1,
+        "uncertainty": 5,
+        "technical_debt": 4,
+        "points": 3
+    },
+    {
+        "id": 7,
+        "title": "Migração de Microserviço de Logística #7",
+        "complexity": 3,
+        "uncertainty": 1,
+        "technical_debt": 2,
+        "points": 2
+    },
+    {
+        "id": 8,
+        "title": "Migração de Cluster Kubernetes #8",
+        "complexity": 10,
+        "uncertainty": 3,
+        "technical_debt": 1,
+        "points": 5
+    },
+    {
+        "id": 9,
+        "title": "Setup de Sistema de Permissões #9",
+        "complexity": 1,
+        "uncertainty": 4,
+        "technical_debt": 4,
+        "points": 3
+    },
+    {
+        "id": 10,
+        "title": "Documentação de Fila de Processamento (RabbitMQ) #10",
+        "complexity": 9,
+        "uncertainty": 1,
+        "technical_debt": 3,
+        "points": 5
+    },
+    {
+        "id": 11,
+        "title": "Testes de Pipeline de CI/CD #11",
+        "complexity": 5,
+        "uncertainty": 1,
+        "technical_debt": 3,
+        "points": 3
+    },
+    {
+        "id": 12,
+        "title": "Implementação de Componente de UI (Grid) #12",
+        "complexity": 7,
+        "uncertainty": 2,
+        "technical_debt": 5,
+        "points": 5
+    },
+    {
+        "id": 13,
+        "title": "Integração com Websockets para Chat #13",
+        "complexity": 2,
+        "uncertainty": 5,
+        "technical_debt": 5,
+        "points": 5
+    },
+    {
+        "id": 14,
+        "title": "Migração de Exportação de Relatórios PDF #14",
+        "complexity": 1,
+        "uncertainty": 2,
+        "technical_debt": 4,
+        "points": 2
+    },
+    {
+        "id": 15,
+        "title": "Testes de Validadores de Formulário #15",
+        "complexity": 7,
+        "uncertainty": 5,
+        "technical_debt": 5,
+        "points": 8
+    },
+    {
+        "id": 16,
+        "title": "Documentação de Exportação de Relatórios PDF #16",
+        "complexity": 5,
+        "uncertainty": 5,
+        "technical_debt": 2,
+        "points": 5
+    },
+    {
+        "id": 17,
+        "title": "Migração de Gateway de SMS #17",
+        "complexity": 7,
+        "uncertainty": 3,
+        "technical_debt": 2,
+        "points": 5
+    },
+    {
+        "id": 18,
+        "title": "Criação de API de Pagamentos #18",
+        "complexity": 5,
+        "uncertainty": 3,
+        "technical_debt": 5,
+        "points": 5
+    },
+    {
+        "id": 19,
+        "title": "Correção de bug em Gateway de SMS #19",
+        "complexity": 4,
+        "uncertainty": 3,
+        "technical_debt": 3,
+        "points": 3
+    },
+    {
+        "id": 20,
+        "title": "Documentação de Cluster Kubernetes #20",
+        "complexity": 6,
+        "uncertainty": 1,
+        "technical_debt": 1,
+        "points": 3
+    },
+    {
+        "id": 21,
+        "title": "Correção de bug em Provedor de Identidade (OIDC) #21",
+        "complexity": 7,
+        "uncertainty": 2,
+        "technical_debt": 1,
+        "points": 3
+    },
+    {
+        "id": 22,
+        "title": "Migração de Cluster Kubernetes #22",
+        "complexity": 7,
+        "uncertainty": 1,
+        "technical_debt": 3,
+        "points": 3
+    },
+    {
+        "id": 23,
+        "title": "Refatoração de API de Pagamentos #23",
+        "complexity": 1,
+        "uncertainty": 1,
+        "technical_debt": 5,
+        "points": 2
+    },
+    {
+        "id": 24,
+        "title": "Desenvolvimento de Componente de UI (Grid) #24",
+        "complexity": 5,
+        "uncertainty": 5,
+        "technical_debt": 5,
+        "points": 8
+    },
+    {
+        "id": 25,
+        "title": "Desenvolvimento de Scripts de Migração #25",
+        "complexity": 4,
+        "uncertainty": 1,
+        "technical_debt": 5,
+        "points": 3
+    },
+    {
+        "id": 26,
+        "title": "Otimização de Scripts de Migração #26",
+        "complexity": 4,
+        "uncertainty": 4,
+        "technical_debt": 1,
+        "points": 3
+    },
+    {
+        "id": 27,
+        "title": "Setup de Infraestrutura como Código (Terraform) #27",
+        "complexity": 10,
+        "uncertainty": 3,
+        "technical_debt": 5,
+        "points": 8
+    },
+    {
+        "id": 28,
+        "title": "Integração com Validadores de Formulário #28",
+        "complexity": 1,
+        "uncertainty": 2,
+        "technical_debt": 3,
+        "points": 2
+    },
+    {
+        "id": 29,
+        "title": "Criação de Provedor de Identidade (OIDC) #29",
+        "complexity": 4,
+        "uncertainty": 4,
+        "technical_debt": 3,
+        "points": 5
+    },
+    {
+        "id": 30,
+        "title": "Desenvolvimento de Microserviço de Logística #30",
+        "complexity": 7,
+        "uncertainty": 3,
+        "technical_debt": 2,
+        "points": 5
+    },
+    {
+        "id": 31,
+        "title": "Testes de Scripts de Migração #31",
+        "complexity": 10,
+        "uncertainty": 3,
+        "technical_debt": 2,
+        "points": 8
+    },
+    {
+        "id": 32,
+        "title": "Otimização de Microserviço de Logística #32",
+        "complexity": 4,
+        "uncertainty": 2,
+        "technical_debt": 5,
+        "points": 3
+    },
+    {
+        "id": 33,
+        "title": "Migração de Frontend do Carrinho #33",
+        "complexity": 6,
+        "uncertainty": 1,
+        "technical_debt": 3,
+        "points": 3
+    },
+    {
+        "id": 34,
+        "title": "Desenvolvimento de Dashboard de Analytics #34",
+        "complexity": 8,
+        "uncertainty": 2,
+        "technical_debt": 3,
+        "points": 5
+    },
+    {
+        "id": 35,
+        "title": "Integração com Provedor de Identidade (OIDC) #35",
+        "complexity": 10,
+        "uncertainty": 1,
+        "technical_debt": 5,
+        "points": 5
+    },
+    {
+        "id": 36,
+        "title": "Otimização de Serviço de Cache (Redis) #36",
+        "complexity": 7,
+        "uncertainty": 2,
+        "technical_debt": 5,
+        "points": 5
+    },
+    {
+        "id": 37,
+        "title": "Documentação de Fila de Processamento (RabbitMQ) #37",
+        "complexity": 9,
+        "uncertainty": 1,
+        "technical_debt": 4,
+        "points": 5
+    },
+    {
+        "id": 38,
+        "title": "Refatoração de Pipeline de CI/CD #38",
+        "complexity": 6,
+        "uncertainty": 3,
+        "technical_debt": 3,
+        "points": 5
+    },
+    {
+        "id": 39,
+        "title": "Migração de Cluster Kubernetes #39",
+        "complexity": 3,
+        "uncertainty": 1,
+        "technical_debt": 4,
+        "points": 2
+    },
+    {
+        "id": 40,
+        "title": "Migração de Pipeline de CI/CD #40",
+        "complexity": 7,
+        "uncertainty": 3,
+        "technical_debt": 1,
+        "points": 5
+    },
+    {
+        "id": 41,
+        "title": "Implementação de Gateway de SMS #41",
+        "complexity": 6,
+        "uncertainty": 3,
+        "technical_debt": 2,
+        "points": 5
+    },
+    {
+        "id": 42,
+        "title": "Documentação de Pipeline de CI/CD #42",
+        "complexity": 7,
+        "uncertainty": 5,
+        "technical_debt": 3,
+        "points": 8
+    },
+    {
+        "id": 43,
+        "title": "Testes de API de Pagamentos #43",
+        "complexity": 10,
+        "uncertainty": 3,
+        "technical_debt": 5,
+        "points": 8
+    },
+    {
+        "id": 44,
+        "title": "Ajuste em Websockets para Chat #44",
+        "complexity": 4,
+        "uncertainty": 3,
+        "technical_debt": 4,
+        "points": 3
+    },
+    {
+        "id": 45,
+        "title": "Migração de Websockets para Chat #45",
+        "complexity": 8,
+        "uncertainty": 2,
+        "technical_debt": 4,
+        "points": 5
+    },
+    {
+        "id": 46,
+        "title": "Implementação de Pipeline de CI/CD #46",
+        "complexity": 1,
+        "uncertainty": 2,
+        "technical_debt": 2,
+        "points": 2
+    },
+    {
+        "id": 47,
+        "title": "Testes de Pipeline de CI/CD #47",
+        "complexity": 7,
+        "uncertainty": 1,
+        "technical_debt": 4,
+        "points": 5
+    },
+    {
+        "id": 48,
+        "title": "Correção de bug em API de Pagamentos #48",
+        "complexity": 9,
+        "uncertainty": 4,
+        "technical_debt": 4,
+        "points": 8
+    },
+    {
+        "id": 49,
+        "title": "Ajuste em Scripts de Migração #49",
+        "complexity": 8,
+        "uncertainty": 3,
+        "technical_debt": 4,
+        "points": 5
+    },
+    {
+        "id": 50,
+        "title": "Migração de Sistema de Permissões #50",
+        "complexity": 5,
+        "uncertainty": 5,
+        "technical_debt": 4,
+        "points": 5
+    },
+    {
+        "id": 51,
+        "title": "Criação de Fila de Processamento (RabbitMQ) #51",
+        "complexity": 9,
+        "uncertainty": 1,
+        "technical_debt": 3,
+        "points": 5
+    },
+    {
+        "id": 52,
+        "title": "Correção de bug em Banco de Dados NoSQL #52",
+        "complexity": 1,
+        "uncertainty": 1,
+        "technical_debt": 5,
+        "points": 2
+    },
+    {
+        "id": 53,
+        "title": "Correção de bug em Banco de Dados NoSQL #53",
+        "complexity": 7,
+        "uncertainty": 5,
+        "technical_debt": 3,
+        "points": 8
+    },
+    {
+        "id": 54,
+        "title": "Ajuste em API de Pagamentos #54",
+        "complexity": 3,
+        "uncertainty": 3,
+        "technical_debt": 3,
+        "points": 3
+    },
+    {
+        "id": 55,
+        "title": "Correção de bug em Websockets para Chat #55",
+        "complexity": 1,
+        "uncertainty": 3,
+        "technical_debt": 3,
+        "points": 2
+    },
+    {
+        "id": 56,
+        "title": "Migração de Gateway de SMS #56",
+        "complexity": 2,
+        "uncertainty": 5,
+        "technical_debt": 4,
+        "points": 5
+    },
+    {
+        "id": 57,
+        "title": "Ajuste em Dashboard de Analytics #57",
+        "complexity": 2,
+        "uncertainty": 1,
+        "technical_debt": 1,
+        "points": 1
+    },
+    {
+        "id": 58,
+        "title": "Setup de Microserviço de Logística #58",
+        "complexity": 10,
+        "uncertainty": 5,
+        "technical_debt": 4,
+        "points": 8
+    },
+    {
+        "id": 59,
+        "title": "Desenvolvimento de Fila de Processamento (RabbitMQ) #59",
+        "complexity": 7,
+        "uncertainty": 4,
+        "technical_debt": 5,
+        "points": 8
+    },
+    {
+        "id": 60,
+        "title": "Integração com Banco de Dados NoSQL #60",
+        "complexity": 6,
+        "uncertainty": 5,
+        "technical_debt": 5,
+        "points": 8
+    },
+    {
+        "id": 61,
+        "title": "Refatoração de Pipeline de CI/CD #61",
+        "complexity": 6,
+        "uncertainty": 3,
+        "technical_debt": 2,
+        "points": 5
+    },
+    {
+        "id": 62,
+        "title": "Correção de bug em Validadores de Formulário #62",
+        "complexity": 7,
+        "uncertainty": 5,
+        "technical_debt": 1,
+        "points": 5
+    },
+    {
+        "id": 63,
+        "title": "Ajuste em Infraestrutura como Código (Terraform) #63",
+        "complexity": 2,
+        "uncertainty": 2,
+        "technical_debt": 4,
+        "points": 2
+    },
+    {
+        "id": 64,
+        "title": "Otimização de Banco de Dados NoSQL #64",
+        "complexity": 9,
+        "uncertainty": 5,
+        "technical_debt": 5,
+        "points": 8
+    },
+    {
+        "id": 65,
+        "title": "Documentação de Exportação de Relatórios PDF #65",
+        "complexity": 2,
+        "uncertainty": 1,
+        "technical_debt": 2,
+        "points": 1
+    },
+    {
+        "id": 66,
+        "title": "Setup de Sistema de Permissões #66",
+        "complexity": 3,
+        "uncertainty": 5,
+        "technical_debt": 3,
+        "points": 5
+    },
+    {
+        "id": 67,
+        "title": "Integração com Dashboard de Analytics #67",
+        "complexity": 6,
+        "uncertainty": 3,
+        "technical_debt": 1,
+        "points": 3
+    },
+    {
+        "id": 68,
+        "title": "Criação de Motor de Busca #68",
+        "complexity": 5,
+        "uncertainty": 3,
+        "technical_debt": 1,
+        "points": 3
+    },
+    {
+        "id": 69,
+        "title": "Otimização de Microserviço de Logística #69",
+        "complexity": 5,
+        "uncertainty": 4,
+        "technical_debt": 2,
+        "points": 5
+    },
+    {
+        "id": 70,
+        "title": "Implementação de Gateway de SMS #70",
+        "complexity": 1,
+        "uncertainty": 4,
+        "technical_debt": 2,
+        "points": 3
+    },
+    {
+        "id": 71,
+        "title": "Migração de Módulo de Autenticação #71",
+        "complexity": 2,
+        "uncertainty": 1,
+        "technical_debt": 3,
+        "points": 2
+    },
+    {
+        "id": 72,
+        "title": "Correção de bug em Gateway de SMS #72",
+        "complexity": 2,
+        "uncertainty": 1,
+        "technical_debt": 4,
+        "points": 2
+    },
+    {
+        "id": 73,
+        "title": "Migração de Websockets para Chat #73",
+        "complexity": 1,
+        "uncertainty": 5,
+        "technical_debt": 5,
+        "points": 5
+    },
+    {
+        "id": 74,
+        "title": "Testes de Provedor de Identidade (OIDC) #74",
+        "complexity": 3,
+        "uncertainty": 1,
+        "technical_debt": 5,
+        "points": 3
+    },
+    {
+        "id": 75,
+        "title": "Correção de bug em Cluster Kubernetes #75",
+        "complexity": 3,
+        "uncertainty": 3,
+        "technical_debt": 1,
+        "points": 3
+    },
+    {
+        "id": 76,
+        "title": "Testes de Dashboard de Analytics #76",
+        "complexity": 1,
+        "uncertainty": 4,
+        "technical_debt": 3,
+        "points": 3
+    },
+    {
+        "id": 77,
+        "title": "Ajuste em Provedor de Identidade (OIDC) #77",
+        "complexity": 6,
+        "uncertainty": 3,
+        "technical_debt": 3,
+        "points": 5
+    },
+    {
+        "id": 78,
+        "title": "Documentação de Websockets para Chat #78",
+        "complexity": 3,
+        "uncertainty": 1,
+        "technical_debt": 1,
+        "points": 2
+    },
+    {
+        "id": 79,
+        "title": "Integração com Validadores de Formulário #79",
+        "complexity": 6,
+        "uncertainty": 2,
+        "technical_debt": 4,
+        "points": 5
+    },
+    {
+        "id": 80,
+        "title": "Setup de Websockets para Chat #80",
+        "complexity": 5,
+        "uncertainty": 5,
+        "technical_debt": 3,
+        "points": 5
+    },
+    {
+        "id": 81,
+        "title": "Setup de Gateway de SMS #81",
+        "complexity": 7,
+        "uncertainty": 3,
+        "technical_debt": 4,
+        "points": 5
+    },
+    {
+        "id": 82,
+        "title": "Correção de bug em Banco de Dados NoSQL #82",
+        "complexity": 10,
+        "uncertainty": 4,
+        "technical_debt": 4,
+        "points": 8
+    },
+    {
+        "id": 83,
+        "title": "Criação de Serviço de Cache (Redis) #83",
+        "complexity": 2,
+        "uncertainty": 1,
+        "technical_debt": 4,
+        "points": 2
+    },
+    {
+        "id": 84,
+        "title": "Setup de Pipeline de CI/CD #84",
+        "complexity": 6,
+        "uncertainty": 2,
+        "technical_debt": 2,
+        "points": 3
+    },
+    {
+        "id": 85,
+        "title": "Otimização de Scripts de Migração #85",
+        "complexity": 10,
+        "uncertainty": 3,
+        "technical_debt": 3,
+        "points": 8
+    },
+    {
+        "id": 86,
+        "title": "Setup de Microserviço de Logística #86",
+        "complexity": 4,
+        "uncertainty": 5,
+        "technical_debt": 5,
+        "points": 5
+    },
+    {
+        "id": 87,
+        "title": "Desenvolvimento de Cluster Kubernetes #87",
+        "complexity": 3,
+        "uncertainty": 5,
+        "technical_debt": 3,
+        "points": 5
+    },
+    {
+        "id": 88,
+        "title": "Implementação de Websockets para Chat #88",
+        "complexity": 8,
+        "uncertainty": 3,
+        "technical_debt": 1,
+        "points": 5
+    },
+    {
+        "id": 89,
+        "title": "Implementação de API de Pagamentos #89",
+        "complexity": 2,
+        "uncertainty": 3,
+        "technical_debt": 5,
+        "points": 3
+    },
+    {
+        "id": 90,
+        "title": "Setup de Módulo de Autenticação #90",
+        "complexity": 8,
+        "uncertainty": 5,
+        "technical_debt": 4,
+        "points": 8
+    },
+    {
+        "id": 91,
+        "title": "Migração de Sistema de Permissões #91",
+        "complexity": 5,
+        "uncertainty": 4,
+        "technical_debt": 1,
+        "points": 5
+    },
+    {
+        "id": 92,
+        "title": "Desenvolvimento de Motor de Busca #92",
+        "complexity": 10,
+        "uncertainty": 2,
+        "technical_debt": 2,
+        "points": 5
+    },
+    {
+        "id": 93,
+        "title": "Testes de Pipeline de CI/CD #93",
+        "complexity": 8,
+        "uncertainty": 2,
+        "technical_debt": 4,
+        "points": 5
+    },
+    {
+        "id": 94,
+        "title": "Desenvolvimento de Gateway de SMS #94",
+        "complexity": 9,
+        "uncertainty": 3,
+        "technical_debt": 2,
+        "points": 5
+    },
+    {
+        "id": 95,
+        "title": "Otimização de Componente de UI (Grid) #95",
+        "complexity": 5,
+        "uncertainty": 3,
+        "technical_debt": 2,
+        "points": 3
+    },
+    {
+        "id": 96,
+        "title": "Desenvolvimento de Serviço de Cache (Redis) #96",
+        "complexity": 7,
+        "uncertainty": 4,
+        "technical_debt": 3,
+        "points": 5
+    },
+    {
+        "id": 97,
+        "title": "Ajuste em Microserviço de Logística #97",
+        "complexity": 4,
+        "uncertainty": 5,
+        "technical_debt": 5,
+        "points": 5
+    },
+    {
+        "id": 98,
+        "title": "Implementação de Dashboard de Analytics #98",
+        "complexity": 4,
+        "uncertainty": 1,
+        "technical_debt": 5,
+        "points": 3
+    },
+    {
+        "id": 99,
+        "title": "Integração com Validadores de Formulário #99",
+        "complexity": 4,
+        "uncertainty": 2,
+        "technical_debt": 2,
+        "points": 3
+    },
+    {
+        "id": 100,
+        "title": "Implementação de Dashboard de Analytics #100",
+        "complexity": 2,
+        "uncertainty": 1,
+        "technical_debt": 3,
+        "points": 2
+    }
+]
